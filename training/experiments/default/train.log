@@ -1,0 +1,22 @@
+2023-04-08 20:30:23,980:INFO: ----Starting train script in mode: train----
+2023-04-08 20:30:23,980:INFO: Loading datasets...
+2023-04-08 20:30:24,883:INFO: Validation dataset...
+2023-04-08 20:32:06,858:INFO: Training dataset...
+2023-04-08 20:33:13,519:INFO: Done
+2023-04-08 20:33:13,519:INFO: Setup time: 0h2m49.54s
+2023-04-08 20:33:13,519:INFO: Using Exponential Learning Rate Decay of 1
+2023-04-08 20:33:13,519:INFO: Epoch sizes: 1000 in train and 1000 in eval
+2023-04-08 20:33:13,519:INFO: Starting training for 1 epoch(s)
+2023-04-08 20:33:13,519:INFO: Pretraining evaluation...
+2023-04-08 20:33:13,519:INFO: Epoch 1/1
+2023-04-08 20:33:13,519:INFO: Training on train set
+2023-04-08 20:38:53,899:INFO: - Train metrics: AUC: 0.909 ; center_error: 14.216 ; loss: 0.139
+2023-04-08 20:38:53,908:INFO: Validation on val set
+2023-04-08 20:39:48,762:INFO: Saving embeddings for summary 0
+2023-04-08 20:39:49,853:INFO: Saving embeddings for summary 1
+2023-04-08 20:39:50,832:INFO: Saving embeddings for summary 2
+2023-04-08 20:39:52,387:INFO: Saving embeddings for summary 3
+2023-04-08 20:39:54,122:INFO: Saving embeddings for summary 4
+2023-04-08 20:41:57,857:INFO: - Eval metrics : AUC: 0.950 ; center_error: 11.167 ; loss: 0.123
+2023-04-08 20:41:57,970:INFO: - Found new best auc
+2023-04-08 20:41:57,978:INFO: === Execution exited normally ===2023-05-14 00:08:53,513:INFO: ----Starting train script in mode: train----

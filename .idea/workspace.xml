@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="95f321b0-f99c-4f0c-9e35-7696ecd172ee" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../../../.." />
+    <option name="WARN_ABOUT_DETACHED_HEAD" value="false" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CpGFzlHivhCEHbO9ZQR2n6kV5Y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Program/Python/Face_Recognition" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
+  </component>
+  <component name="RunManager" selected="Python.caogaozhi">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="SiameseFC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="caogaozhi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SiameseFC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/caogaozhi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="infer_ui" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SiameseFC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/infer_ui.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main_ui" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SiameseFC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/main_ui.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SiameseFC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="vis_app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SiameseFC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vis_app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_inference.sh" type="ShConfigurationType">
+      <option name="SCRIPT_TEXT" value="" />
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/run_inference.sh" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="false" />
+      <option name="INTERPRETER_PATH" value="E:/python38/python.exe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="EXECUTE_IN_TERMINAL" value="true" />
+      <option name="EXECUTE_SCRIPT_FILE" value="true" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.vis_app" />
+      <item itemvalue="Python.main_ui" />
+      <item itemvalue="Python.train" />
+      <item itemvalue="Python.caogaozhi" />
+      <item itemvalue="Python.infer_ui" />
+      <item itemvalue="Shell Script.run_inference.sh" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.caogaozhi" />
+        <item itemvalue="Python.main_ui" />
+        <item itemvalue="Python.train" />
+        <item itemvalue="Python.infer_ui" />
+        <item itemvalue="Python.vis_app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95f321b0-f99c-4f0c-9e35-7696ecd172ee" name="Changes" comment="" />
+      <created>1659492012857</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659492012857</updated>
+      <workItem from="1673077651282" duration="340000" />
+      <workItem from="1673158367956" duration="7646000" />
+      <workItem from="1673167326717" duration="87000" />
+      <workItem from="1673251459139" duration="3258000" />
+      <workItem from="1673261365958" duration="154000" />
+      <workItem from="1679910705278" duration="3463000" />
+      <workItem from="1680009006634" duration="2093000" />
+      <workItem from="1680574158220" duration="8767000" />
+      <workItem from="1680594931779" duration="1378000" />
+      <workItem from="1680663193412" duration="424000" />
+      <workItem from="1680663638924" duration="43000" />
+      <workItem from="1680663694250" duration="16000" />
+      <workItem from="1680663722755" duration="4436000" />
+      <workItem from="1680670055477" duration="1114000" />
+      <workItem from="1680671605324" duration="338000" />
+      <workItem from="1680674684953" duration="16000" />
+      <workItem from="1680678644257" duration="2757000" />
+      <workItem from="1680686184640" duration="6510000" />
+      <workItem from="1680699813085" duration="46000" />
+      <workItem from="1680707359680" duration="847000" />
+      <workItem from="1680752213212" duration="19000" />
+      <workItem from="1680762462264" duration="292000" />
+      <workItem from="1680762880983" duration="11611000" />
+      <workItem from="1680776518922" duration="2001000" />
+      <workItem from="1680836281975" duration="4215000" />
+      <workItem from="1680866164982" duration="777000" />
+      <workItem from="1680867002397" duration="14359000" />
+      <workItem from="1680922106408" duration="1707000" />
+      <workItem from="1680930316895" duration="2186000" />
+      <workItem from="1680932711878" duration="534000" />
+      <workItem from="1680933418781" duration="15026000" />
+      <workItem from="1680955262506" duration="1436000" />
+      <workItem from="1680956793325" duration="33000" />
+      <workItem from="1680956979667" duration="1012000" />
+      <workItem from="1681094515329" duration="26921000" />
+      <workItem from="1681181389492" duration="4171000" />
+      <workItem from="1681185606991" duration="9438000" />
+      <workItem from="1681206448454" duration="14000" />
+      <workItem from="1681206649864" duration="9623000" />
+      <workItem from="1681267831135" duration="5630000" />
+      <workItem from="1681280120319" duration="18427000" />
+      <workItem from="1681357758498" duration="3170000" />
+      <workItem from="1681372258323" duration="10156000" />
+      <workItem from="1681437335951" duration="2000" />
+      <workItem from="1681437384053" duration="2569000" />
+      <workItem from="1681445913283" duration="5849000" />
+      <workItem from="1681528065609" duration="4225000" />
+      <workItem from="1681537963921" duration="8614000" />
+      <workItem from="1681623341542" duration="1220000" />
+      <workItem from="1681649071943" duration="643000" />
+      <workItem from="1681702937266" duration="1495000" />
+      <workItem from="1681719817271" duration="25000" />
+      <workItem from="1681737283338" duration="1289000" />
+      <workItem from="1681799703463" duration="315000" />
+      <workItem from="1681801389910" duration="4268000" />
+      <workItem from="1681805732270" duration="2992000" />
+      <workItem from="1681810151526" duration="4641000" />
+      <workItem from="1681890970711" duration="193000" />
+      <workItem from="1681965913330" duration="536000" />
+      <workItem from="1681973414209" duration="820000" />
+      <workItem from="1682045437240" duration="4713000" />
+      <workItem from="1682063957402" duration="1618000" />
+      <workItem from="1682067148368" duration="523000" />
+      <workItem from="1682067965681" duration="3000" />
+      <workItem from="1682134007763" duration="56000" />
+      <workItem from="1682228644080" duration="100000" />
+      <workItem from="1682393612069" duration="5666000" />
+      <workItem from="1682491397549" duration="6824000" />
+      <workItem from="1682590983574" duration="411000" />
+      <workItem from="1682604470938" duration="284000" />
+      <workItem from="1682666624104" duration="71000" />
+      <workItem from="1682666709423" duration="25000" />
+      <workItem from="1682666747211" duration="2015000" />
+      <workItem from="1682669911274" duration="1123000" />
+      <workItem from="1682671617789" duration="14286000" />
+      <workItem from="1682739238563" duration="5637000" />
+      <workItem from="1683257605029" duration="32000" />
+      <workItem from="1683709718781" duration="8849000" />
+      <workItem from="1683880802387" duration="2551000" />
+      <workItem from="1683910470498" duration="66000" />
+      <workItem from="1683959208474" duration="2410000" />
+      <workItem from="1683982103379" duration="1254000" />
+      <workItem from="1683993800929" duration="374000" />
+      <workItem from="1683994212000" duration="28000" />
+      <workItem from="1683994561275" duration="789000" />
+      <workItem from="1684031688675" duration="2713000" />
+      <workItem from="1684048747899" duration="3092000" />
+      <workItem from="1684118978070" duration="1309000" />
+      <workItem from="1684126455562" duration="504000" />
+      <workItem from="1684472295588" duration="2132000" />
+      <workItem from="1685444196621" duration="717000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../../../../../../../.." />
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/temp_test/temp.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/temp_test/temp.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SiameseFC$temp.coverage" NAME="temp Coverage Results" MODIFIED="1681315317407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SiameseFC$vis_app.coverage" NAME="vis_app Coverage Results" MODIFIED="1682672720914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SiameseFC$train.coverage" NAME="train Coverage Results" MODIFIED="1682407077778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SiameseFC$main_ui.coverage" NAME="main_ui Coverage Results" MODIFIED="1684473668095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI" />
+    <SUITE FILE_PATH="coverage/SiameseFC$display.coverage" NAME="display Coverage Results" MODIFIED="1681109135650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appSiamFC" />
+    <SUITE FILE_PATH="coverage/SiameseFC$inference.coverage" NAME="inference Coverage Results" MODIFIED="1681803184236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SiameseFC$datasets.coverage" NAME="datasets Coverage Results" MODIFIED="1680776351120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/training" />
+    <SUITE FILE_PATH="coverage/SiameseFC$temp_test.coverage" NAME="temp_test Coverage Results" MODIFIED="1681228569160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SiameseFC$infer_ui.coverage" NAME="infer_ui Coverage Results" MODIFIED="1682676481934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SiameseFC$caogaozhi.coverage" NAME="caogaozhi Coverage Results" MODIFIED="1683882186254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SiameseFC$caogaozhi__1_.coverage" NAME="caogaozhi (1) Coverage Results" MODIFIED="1681181766818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

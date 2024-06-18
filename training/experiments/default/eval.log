@@ -1,0 +1,23 @@
+2023-04-21 15:42:49,203:INFO: === Execution Terminated with error ===
+2023-04-21 15:50:04,529:INFO: ----Starting train script in mode: eval----
+2023-04-21 15:50:04,529:INFO: Loading datasets...
+2023-04-21 15:50:05,235:INFO: Validation dataset...
+2023-04-21 15:50:10,486:INFO: Done
+2023-04-21 15:50:10,486:INFO: Starting evaluation
+2023-04-21 15:50:18,412:INFO: Validation on val set
+2023-04-21 15:59:44,246:INFO: ----Starting train script in mode: eval----
+2023-04-21 15:59:44,246:INFO: Loading datasets...
+2023-04-21 15:59:45,038:INFO: Validation dataset...
+2023-04-21 15:59:50,908:INFO: Done
+2023-04-21 15:59:50,908:INFO: Starting evaluation
+2023-04-21 15:59:53,714:INFO: Validation on val set
+2023-04-21 16:00:40,188:INFO: Saving embeddings for summary 0
+2023-04-21 16:00:41,231:INFO: Saving embeddings for summary 1
+2023-04-21 16:00:42,191:INFO: Saving embeddings for summary 2
+2023-04-21 16:00:43,244:INFO: Saving embeddings for summary 3
+2023-04-21 16:00:45,119:INFO: Saving embeddings for summary 4
+2023-04-21 16:02:57,447:INFO: - Eval metrics : AUC: 0.950 ; center_error: 11.167 ; loss: 0.123
+2023-04-21 16:02:57,455:INFO: === Execution exited normally ===
+2023-04-25 15:17:38,621:INFO: ----Starting train script in mode: eval----
+2023-04-25 15:17:38,622:INFO: Loading datasets...
+2023-04-25 15:17:39,429:INFO: Validation dataset...
